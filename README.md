@@ -1,32 +1,19 @@
-## TSI - IFSP/Araraquara
+## Estatísticas GitHub
 
-<div style="display: inline_block"><br/>
+| ![Estatísticas Gerais](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovanatrevizanbarbosa&theme=github_dark) | ![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovanatrevizanbarbosa&theme=github_dark) | ![Linguagem Mais Utilizada](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovanatrevizanbarbosa&theme=github_dark) |
+| --- | --- | --- |
+
+| ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovanatrevizanbarbosa&theme=github_dark) | ![Estatísticas de Atividade](https://github-readme-streak-stats.herokuapp.com?user=giovanatrevizanbarbosa&theme=github-dark&hide_border=true) |
+| --- | --- |
+
+
+### Linguagens
+
+<div style="display: inline_block"><br>
     <img align="center" alt="plsql" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
     <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    </a>
-</div><br/>
-
-## Redes Sociais:
-
-<div style="display: inline_block"><br/>
-    <a href="mailto:gi.trevizan.barbosa@gmail.com" target="_blank">
-    <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-      <a href="https://www.linkedin.com/in/giovana-trevizan-barbosa/" target="_blank">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div><br/>
-
-## Stats: 
-
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=giovanatrevizanbarbosa&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=giovanatrevizanbarbosa&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=giovanatrevizanbarbosa&show_icons=true" />
-</picture>
+    <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/APEX-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+</div>
